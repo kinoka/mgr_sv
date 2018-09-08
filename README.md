@@ -1,0 +1,2 @@
+# mgr_sv
+Shadowverse
